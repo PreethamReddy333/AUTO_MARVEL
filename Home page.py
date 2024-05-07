@@ -1,6 +1,6 @@
 import streamlit as st
-from pages.loginpage import a
-from pages.signuppage import Dictnames
+from loginpage import a
+from signuppage import Dictnames
 
 st.title("Welcome to :blue[_AUTOMARVEL_]!!")
 st.header("hello user", divider = "rainbow")

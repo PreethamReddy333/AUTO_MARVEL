@@ -12,5 +12,5 @@ c = st.text_input("Enter password👇", key=423)
 if st.button("sign up"):
     Dictnames[b] = a
     LoginData[b] = c
-    st.page_link('AUTOMARVEL/pages/loginpage.py')
+    st.page_link('AUTO_MARVEL/loginpage.py')
 

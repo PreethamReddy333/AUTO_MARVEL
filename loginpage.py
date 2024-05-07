@@ -28,4 +28,4 @@ if c == True:
         user = User(Dictnames.get(a))
         st.success(f"Welcome, {user.name}!")
         st.write("You are now logged in.")
-        st.page_link('/home/preethamreddy/vscode/AUTOMARVEL/pages/Home page.py')
+        st.page_link('AUTO_MARVEL/Home page.py')

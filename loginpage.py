@@ -1,5 +1,5 @@
 import streamlit as st
-from pages.signuppage import Dictnames, LoginData
+from signuppage import Dictnames, LoginData
 st.title("LOGIN")
 
 
